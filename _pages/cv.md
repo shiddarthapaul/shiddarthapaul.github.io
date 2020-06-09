@@ -17,15 +17,9 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Intern, Idaho National Lab
+* Summer 2019: Research Intern, Idaho National Lab
+* December 2017 - present: Research Assistant, Louisiana Tech University
   
 Skills
 ======
