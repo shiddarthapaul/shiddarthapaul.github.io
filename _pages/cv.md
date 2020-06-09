@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Mechanical Engineering, Louisiana Tech University, 2021 (expected)
+* M.S. in Mechanical Engineering, Louisiana Tech University, 2020
+* B.Sc. in Mechanical Engineering, Bangladesh University of Engineering and Technology, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2020: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
