@@ -15,3 +15,4 @@ I am a Ph.D. candidate in the Department of Mechanical Engineering at Louisiana 
 
 News 
 ======
+1. \textbf{June 2020}
