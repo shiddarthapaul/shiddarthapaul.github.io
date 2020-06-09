@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Homepage"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Shiddartha Paul"
 description              : &description "Graduate Research Assistant at Louisiana Tech University"
