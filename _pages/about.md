@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shiddartha Paul"
+title: "Welcome to my personal homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
